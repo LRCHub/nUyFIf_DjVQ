@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Loneliness",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-09T09:55:05.869869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Speed Of The Sound Of Loneliness",
+      "artist": "John Prine",
+      "has_synced": false,
+      "path": "select/01_Speed_Of_The_Sound_Of_Loneliness_John_Prine.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "寂寞的季节(season of loneliness)",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/02_寂寞的季节(season_of_loneliness)_陶喆.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hello Loneliness",
+      "artist": "Molly Nilsson",
+      "has_synced": true,
+      "path": "select/03_Hello_Loneliness_Molly_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Fog of Loneliness",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/04_Bad_Fog_of_Loneliness_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In My Loneliness",
+      "artist": "Trader Horne",
+      "has_synced": false,
+      "path": "select/05_In_My_Loneliness_Trader_Horne.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Age Of Loneliness (Carly's Song)",
+      "artist": "Enigma",
+      "has_synced": false,
+      "path": "select/06_Age_Of_Loneliness_(Carly's_Song)_Enigma.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loneliness on the run",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/07_Loneliness_on_the_run_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Loneliness",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/08_Loneliness_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Loneliness Game",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/09_Loneliness_Game_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dance With Loneliness",
+      "artist": "Sylver",
+      "has_synced": false,
+      "path": "select/10_Dance_With_Loneliness_Sylver.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Loneliness",
+      "artist": "El Perro del Mar",
+      "has_synced": false,
+      "path": "select/11_This_Loneliness_El_Perro_del_Mar.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Loneliness",
+      "artist": "Lghtnng",
+      "has_synced": false,
+      "path": "select/12_Loneliness_Lghtnng.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cigarettes & Loneliness",
+      "artist": "Chet Faker",
+      "has_synced": true,
+      "path": "select/13_Cigarettes_&_Loneliness_Chet_Faker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Loneliness",
+      "artist": "Legs Diamond",
+      "has_synced": false,
+      "path": "select/14_Loneliness_Legs_Diamond.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Redefining Loneliness",
+      "artist": "The Saddest Landscape",
+      "has_synced": true,
+      "path": "select/15_Redefining_Loneliness_The_Saddest_Landscape.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Loneliness",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Loneliness_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
